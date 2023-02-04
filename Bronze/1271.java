@@ -1,3 +1,5 @@
+package Bronze;
+
 import java.util.Scanner;
 import java.math.BigInteger;
 
