@@ -2,7 +2,7 @@ package Silver;
 
 import java.util.*;
 
-class 11866 {
+class S11866 {
   public static void main(String[] args){
     Scanner scanner=new Scanner(System.in);
 
