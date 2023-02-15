@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.util.StringTokenizer;
 import java.util.*;
 
-class B18258 {
+class S18258 {
   public static void main(String[] args) throws IOException {
     Scanner scanner = new Scanner(System.in);
 

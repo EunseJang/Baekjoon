@@ -2,7 +2,7 @@ package Silver;
 
 import java.util.*;
 
-class B10828 {
+class S10828 {
   public static void main(String[] args){
     Scanner scanner = new Scanner(System.in);
 
@@ -10,8 +10,7 @@ class B10828 {
     Stack stack=new Stack();
     
     StringBuilder sb = new StringBuilder();
-    // println으로 출력하면 시간초과 나니까
-    // StringBuilder 사용해야함
+    // println 사용 시 시간초과 -> StringBuilder 사용
 
     for(int i=0;i<test;i++){
       String str=scanner.next();
